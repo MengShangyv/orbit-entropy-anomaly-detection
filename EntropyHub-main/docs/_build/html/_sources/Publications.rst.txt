@@ -1,0 +1,529 @@
+************
+Publications 
+************
+
+       
+.. toctree::
+   :maxdepth: 3
+   :titlesonly:
+
+..............................................................
+
+.. image:: https://raw.githubusercontent.com/MattWillFlood/EntropyHub/main/metrics.entropyhub.svg
+    :align: left
+    :target: https://github.com/MattWillFlood/EntropyHub
+    :scale: 50%
+
+.. raw:: html
+        
+    <div style="display: flex;"> 
+        <div style="text-align:right;" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0259448" data-legend="always" data-style="large_circle"></div><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> 
+        <div style="text-align:left;" class="altmetric-embed" data-badge-type='large-donut' data-badge-details='right' data-altmetric-id="116252437"></div><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+    </div>
+
+
+List of research articles citing EntropyHub
+###########################################
+
+2026
+----
+
+* `Parametrically perturbed logistic map - a new approach based on the least significant bits in the state variable’s representation <https://www.sciencedirect.com/science/article/abs/pii/S0020025525008734>`_
+    | Madhu Sharma
+    | *Information Sciences*
+
+
+2025
+----
+
+* `How to Probe Dynamics of Brain Function: A Narrative Review <https://www.sciencedirect.com/science/article/abs/pii/S0006322325016725>`_
+    | H Pushkarskaya, S Krishnaswamy, C Pittenger
+    | *Biological Psychiatry*
+
+* `Early Warning Signs: Evaluating Permutation Entropy Metrics for Stock Market Crashes <https://link.springer.com/chapter/10.1007/978-3-031-97529-5_21>`_
+    | A Bielinskyi, V Soloviev, A Matviychuk, V Solovieva, T Kmytiuk, H Velykoivanenko
+    | *Systems Analysis and Data Mining*
+
+* `Dynamic topographies of intrinsic neural timescales: a key role for consciousness <https://doi.org/10.1016/j.compbiomed.2025.111102>`_
+    | A Buccellato, D Zang, Y Çatal, B Ventura, M Facca, Z Qi, P Bisiacchi, A Del Felice, X Wu, G Northoff 
+    | *Computers in Biology and Medicine*
+
+* `Permutation entropy-based quantification for joint effect of gestalt principles on grouping segments of cross-curves <https://www.tandfonline.com/doi/abs/10.1080/13658816.2025.2531186>`_
+    | Z Wu, Z Li, T Lan 
+    | *International Journal of Geographical Information Science*
+
+* `Measuring associations between hormonal entropy, the prevalence of vasomotor symptoms, and menstrual dynamics <https://journals.physiology.org/doi/full/10.1152/ajpendo.00083.2025>`_
+    | JF Winkles, N Santoro, MD Sammel, SR El Khoudary, A Colvin, S Crawford
+    | *American Journal of Physiology-Endocrinology and Metabolism*
+
+* `Temporal and Spectral Analysis of High-Resolution ECG Alterations in Chagas Disease <https://link.springer.com/chapter/10.1007/978-3-032-08206-0_16>`_
+    | KT Ruano-Bravo, P Passos-Avendaño, C Tobón, JP Ugarte 
+    | *Applied Computer Sciences in Engineering (Workshop on Engineering Applications)*
+
+* `An ancient evolutionary calculus for attention signaling retained in modern music <https://www.biorxiv.org/content/10.1101/2025.09.28.679029v3.abstract>`_
+    | GA Babbitt, EP Fokoue
+    | *BioRxiv*
+
+* `Exploration on Bubble Entropy <https://ieeexplore.ieee.org/abstract/document/11097881>`_
+    | G Manis, D Platakis, R Sassi
+    | *IEEE Journal of Biomedical and Health Informatics*
+
+* `Novel indicators for monitoring bearing condition using frequency-domain dictionary learning <https://link.springer.com/article/10.1007/s00170-025-16534-3>`_
+    | H Yun, C Doru Giurcaneanu, G Dobbie
+    | *International Journal of Advanced Manufacturing Technology*
+
+* `EEG entropy modulation as a biomarker of emotion regulation and resilience <https://www.sciencedirect.com/science/article/pii/S2667242125001721>`_
+    | W Tanner Creel, Richard Hartman
+    | *IBRO Neuroscience Reports*
+
+* `Real-Time Bearing Faults Diagnosis with ARIMA-based Denoising and Residual Attention <https://ieeexplore.ieee.org/abstract/document/11233769>`_
+    | W Ren Sia, MSRM Saufi, MF Isham, MS Leong, A Jamali
+    | *IEEE International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA)*
+
+* `Entropy Knows You’re Low: Wearable Signal Coupling Patterns Reveal Glucose State <https://sciforum.net/manuscripts/26590/manuscript.pdf>`_
+    | S Khurshe, C Franca Carvalho, N Huyen Hoang 
+    | *Engineering Proceedings (MDPI)*
+
+* `Lzcomplexity: Entropy Measurement Library <https://revistacubanadefisica.org/index.php/rcf/article/view/31>`_
+    | E Aragon-Perez, E Estevez-Rams
+    | *Rev. Cubana Fis.*
+
+* `A robust encryption algorithm for DICOM image protection using a new chaotic map and O-shaped scanning <https://link.springer.com/article/10.1140/epjp/s13360-025-06707-0>`_
+    | M Demirtas, S Altunkaya
+    | *European Physical Journal Plus*
+
+* `Altered Entropy Modulation in Bipolar Disorder: EEG Entropy Measures During Steady-State Auditory Entrainment Exposure <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357085>`_
+    | W Creel, GE DeChance, C Brenner, R Hartman
+    | *SSRN*
+
+* `Cognitive brain lateralization through neurovascular coupling in healthy subjects: A statistical complexity analysis <https://physoc.onlinelibrary.wiley.com/doi/10.14814/phy2.70492>`_
+    | H Rojas-Pescio, L Beishon, RB Panerai, M Chacón 
+    | *Physiological Reports*
+
+* `Capturing Bitcoin Market Dynamics: Assessing Advanced Permutation Entropy Metrics as Early-Warning Indicators <https://ceur-ws.org/Vol-3988/paper8.pdf>`_
+    | AO Bielinskyi, VN Soloviev, AV Matviychuk, TL Kmytiuk
+    | *8th International Workshop on Computer Modeling and Intelligent Systems*
+
+* `On Optimizing Sensor Data Collection, Processing, and Storage for Industrial Additive Manufacturing <https://scholarsmine.mst.edu/masters_theses/8247>`_
+    | SW Thompson
+    | *Missouri University of Science & Technology Library*
+
+* `Enhancing Adversarial Attack Detection in EEG Signals With Covariance Entropy: A Novel Framework for BCI Security <https://ieeexplore.ieee.org/abstract/document/11037497>`_
+    | Aashish Khilnani, Jyoti Singh Kirar, Ganga Ram Gautam
+    | *IEEE Signal Processing Letters*
+
+* `Two-dimensional multi-tooth hyperchaotic map and application in medical secure transmission <https://www.sciencedirect.com/science/article/pii/S0957417425020676>`_
+    | Bao Han, Zheng Fan, Zhongyun Hua, Yunzhen Zhang, Quan Xu, Bocheng Bao"
+    | *Expert Systems with Applications*
+
+* `EEG entropy reflects both intrinsic and stimulation-induced corticospinal excitability <https://www.biorxiv.org/content/10.1101/2025.05.16.654439.abstract>`_
+    | Simon Ruch, Joel Frohlich, Marius Keute, Ge Tang, Nelli Keksel
+    | *BioRxiv*
+
+* `Development of Non-Invasive Continuous Glucose Prediction Models Using Multi-Modal Wearable Sensors in Free-Living Conditions <https://www.mdpi.com/1424-8220/25/10/3207>`_
+    | Thilini S. Karunarathna, Zilu Liang. 
+    | *Sensors (MDPI)*
+
+* `A Novel Nonlinear Method for Cardiovascular Data Synchronization <https://ieeexplore.ieee.org/iel8/6287639/6514899/11006692.pdf>`_
+    | Daniele Padovano, Arturo Martinez-Rodrigo, Norbert Marwan, Santiago Mula, Jose J. Rieta, Raul Alcaraz
+    | *IEEE Access*
+
+* `BiEntropiGram: a novel time-frequency entropy map for rotating machines incipient fault diagnosis <https://link.springer.com/article/10.1007/s11071-025-11204-1>`_
+    | Emadaldin Sh Khoram-Nejad, Abdolreza Ohadi, Farshad Almasganj
+    | *Nonlinear Dynamics*
+
+* `Detecting infection-related mortality using dynamical statistical indicators of high-resolution activity time series <https://www.biorxiv.org/content/10.1101/2025.04.21.649753.full.pdf>`_
+    | Megan AM Kutzer, Shima Abdullateef, Alejandro V. Cano, Iris L. Soare-Nguyen, Katy Monteith, Javier Escudero, Vasilis Dakos, Pedro F. Vale
+    | *BioRxiv*
+
+* `Interbrain synchrony attenuation during a peer cooperative task in young children with autistic traits – an EEG hyperscanning study <https://www.sciencedirect.com/science/article/pii/S1053811925002204>`_
+    | I-Chun Chen, Hao-Che Hsu, Chia-Ling Chen, Meng-Han Chang, Chun-Shu Wei, Chun-Hsiang Chuang
+    | *NeuroImage*
+
+* `Personalized preictal EEG pattern characterization: do timing and localization matter? <https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1526963/full>`_
+    | Galya Segal, Noam Keidar, Moshe Herskovitz, Yael Yaniv
+    | *Frontiers in Neuroscience*
+
+*  `Normalization and cross-entropy connectivity in brain disease classification <https://doi.org/10.1016/j.isci.2025.112226>`_
+    | Wu Haifeng, Shunliang Li, Yu Zeng
+    | *iScience*
+
+* `Vibroarthrographic Signal Classification for Knee Joint Disorder Detection using Tunable Q-factor Wavelet Transform based on Entropy Measures <https://etasr.com/index.php/ETASR/article/view/9245>`_
+    | Krishna Sundeep Basavaraju, T. Kishore Kumar, K. Ashoka Reddy
+    | Engineering, Technology & Applied Science Research
+   
+* `Non-Invasive Adverse Cardiac Risk Assessment Based on Electrocardiogram, Photoplethysmogram and Their Coupling Characteristics <https://ieeexplore.ieee.org/document/10958304>`_
+    | Dhaladhuli Jahnavi, Ashutosh Dash, KM Mandana, Nirmalya Ghosh, Amit Patra
+    | *IEEE 21st India Council International Conference (INDICON)*
+
+* `On generalized bidimensional ensemble permutation entropy <https://doi.org/10.1063/5.0253887>`_
+    | M. Muñoz-Guillermo
+    | *Chaos*
+
+* `Addressing Challenges in Time Series Forecasting: A Comprehensive Comparison of Machine Learning Techniques <https://doi.org/10.48550/arXiv.2503.20148>`_
+    | Seyedeh Azadeh Fallah Mortezanejad, Ruochen Wang
+    | *arXiv*
+
+* `Detection and Severity Classification of Sleep Apnea Using Continuous Wearable SpO2 Signals: A Multi-Scale Feature Approach <https://doi.org/10.3390/s25061698>`_
+    | Nhung H. Hoang, Zilu Liang 
+    | *Sensors (MDPI)*
+
+* `Action Complexity Modulates Motor Performance in the Emotional Oddball Task <https://doi.org/10.1152/jn.00480.2023>`_
+    | Junfu Tian,Guanghui Zhang,Qi Zhao, Yingzhi Lu
+    | *Journal of Neurophysiology*
+
+* `Uncertainty during visual search: Insights from a computational model and behavioral experiment in natural stimuli <https://doi.org/10.1101/2025.01.14.632909>`_
+    | Gaston Bujia, Gonzalo Ruarte, Melanie Sclar, Guillermo Solovey, Juan E. Kamienkowski
+    | *BioRxiv*
+
+* `Enhancing multiple sclerosis diagnosis: A comparative study of electroencephalogram signal processing and entropy methods <https://doi.org/10.1016/j.compbiomed.2024.109615>`_
+    | Umut Aslan and Mehmet Feyzi Akşahin
+    | *Computers in Medicine and Biology*
+
+* `Multimodal feature fusion and ensemble learning for non-intrusive occupancy monitoring using smart meters <https://doi.org/10.1016/j.buildenv.2025.112635>`_
+    | Sakib Mahmud, Faycal Bensaali, Muhammad EH Chowdhury, Mahdi Houchati
+    | *Building and Environment*
+
+* `Using a Composite Summary of Daily Sex Hormones to Gauge Time Until Menopause: A Focus on Pregnanediol Glucuronide (PDG) <https://doi.org/10.1210/clinem/dgae895>`_
+    | JF Winkles, A Colvin, SR El Khoudary, N Santoro, M Sammel, S Crawford
+    | *Journal of Clinical Endocrinology & Metabolism*
+
+* `Spatial Cognitive Electroencephalogram Network Topological Features Extraction Based on Cross Fuzzy Entropy Network Graph <https://doi.org/10.3390/sym17020243>`_
+    | Y Zhou, X Liu, D Wen, S Xu, X Wan, H Lu
+    | *Symmetry (MDPI)*
+
+* `Single-neuron spiking variability in hippocampus dynamically tracks sensory content during memory formation in humans <https://www.nature.com/articles/s41467-024-55406-4>`_
+    | Leonhard Waschke, Fabian Kamp, Evi van den Elzen, Suresh Krishna, Ulman Lindenberger,  Ueli Rutishauser, Douglas D. Garrett
+    | *Nature Communications*
+
+* `A weighted frequency domain energy operator spectral method based on soft thresholding fast iterative filtering for rolling bearing incipient fault feature extraction <https://doi.org/10.1177/14759217241306723>`_
+    | W Jiang, H Jiang, R Yao, M Mu, Y Liu
+    | *Structural Health Monitoring*
+
+* `A Comprehensive Assessment of EEG Entropy Measures for Bipolar Disorder Diagnosis Using Machine Learning <https://ieeexplore.ieee.org/abstract/document/10876140>`_
+    | H Bagheri, SR Mahdavi, NE Eyvazzadeh, A Neshaseh-Riz, MS Rad, S Sadeghi    
+    | *IEEE Access*
+
+
+2024
+----
+
+* `A novel chirp-based 2D hyperchaotic map for enhanced image encryption <https://iopscience.iop.org/article/10.1088/1402-4896/ad9428/meta>`_
+    | M Demirtaş and S Altunkaya
+    | *Physica Scripta*
+
+* `Quantifying the memory and dynamical stability of magnetar bursts <https://iopscience.iop.org/article/10.1088/1674-1137/ad9d1c/meta>`_
+    | Y Sang and H-N Lin
+    | *Chinese Physics C*
+
+* `Input-Output Optics as a Causal Time Series Mapping: A Generative Machine Learning Solution <https://doi.org/10.48550/arXiv.2411.19897>`_
+    | A Sen, BK Parida, K Jacobs, DI Bondar
+    | *arXiv*
+
+* `Effects of Stroboscopic Goggles on Standing Balance in the Spatiotemporal and Frequency Domains: An Exploratory Study <https://doi.org/10.1123/jab.2023-0285>`_
+    | ME McCreary, CM Lapish, NM Lewis, RD Swearinger, DP Ferris, EM Pliner
+    | *Journal of Applied Biomechanics*
+
+* `Electroencenphalogram-Based Effective Features for Sustained Attention Assessment in Conversation <https://ieeexplore.ieee.org/abstract/document/10849138/>`_
+    | Masaya Togashi, Ingon Chanpornpakdi, Toshihisa Tanaka
+    | *IEEE APSIPA Conference*
+
+* `Analysis of continuous glucose monitoring data in patients with type 2 diabetes mellitus based on entropy analysis <https://doi.org/10.1117/12.3045353>`_
+    | Y Sun, R Tao, Y Wang, J Cai, H Li, J Zhou, X Yu
+    | *International Conference on Future of Medicine and Biological Information Engineering*
+
+* `Deep Learning Models of Cellular Decision-Making Using Single-Cell Genomic Data <https://uwspace.uwaterloo.ca/items/50e7ed02-fa70-4920-b1ff-bb8741269c43>`_
+    | M Sadria
+    | *University of Waterloo Repository*
+
+* `Exploratory Analysis of Electric Demand Using Informational Tools <http://dx.doi.org/10.1109/ARGENCON62399.2024.10735714>`_
+    | JL Barberia, LL Caruso, G Lottero, et al.
+    | *IEEE Biennial Congress of Argentina*
+
+* `Jump Performance in Trampoline Athletes and how to Measure it: Developing a Repeated Jump Test <https://doi.org/10.52165/sgj.16.3.447-460>`_
+    | Y Prosch, MT Fleddermann, L Reichert, K, Zentgraf
+    | *Science of Gymnastics Journal*
+
+* `Anomaly detection on temporal graphs for suppression of adversarial communication in multi-agent reinforcement learning <https://scholar.googleusercontent.com/scholar?q=cache:vMxpj603tkwJ:scholar.google.com/&hl=en&as_sdt=0,5>`_
+    | Dobromir Marinov
+    | *University of Cambridge Repository*
+
+* `Using Entropy in Time Series Analysis <https://link.springer.com/article/10.3103/S0027134924700607>`_
+    | AM Adelyanov, EA Generalov, Wen Zhen, LV Yakovenko 
+    | *Moscow University Physics Bulletin*
+
+* `2-D Threshold Hyperchaotic Map and Application in Timed One-Time Password <https://ieeexplore.ieee.org/document/10614840>`_
+    | H Bao, et al.
+    | *IEEE Transactions on Industrial Informatics*
+
+* `Capacity configuration of cascaded hydro-wind-photovoltaic complementary systems considering comprehensive benefits based on a synergetic-orderly framework <https://doi.org/10.1016/j.enconman.2024.118916>`_
+    | Y Cui, et al. 
+    | *Energy Conversion and Management*
+
+* `Entropy-based feature selection for capturing impacts in Earth system models with extreme forcing <https://arxiv.org/abs/2409.18011>`_
+    | J Watkins, et al.
+    | *arXiv*
+
+* `FateNet: an integration of dynamical systems and deep learning for cell fate prediction <https://academic.oup.com/bioinformatics/article/40/9/btae525/7739702>`_
+    | M Sadria and T.M. Bury
+    | *Bioinformatics*
+
+* `Quantifying the randomness and scale invariance of the repeating fast radio bursts <https://doi.org/10.1093/mnras/stae1873>`_
+    | Yu Sang, Hai-Nan Lin
+    | *Monthly Notices of the Royal Astronomical Society*
+
+* `Exploring the Real-Time Variability and Complexity of Sitting Patterns in Office Workers with Non-Specific Chronic Spinal Pain and Pain-Free Individuals <https://www.mdpi.com/1424-8220/24/14/4750>`_
+    | Eduarda Oliosi, Afonso Júlio, Phillip Probst, Luís Silva, João Paulo Vilas-Boas, Ana Rita Pinheiro, Hugo Gamboa
+    | *Sensors (MDPI)*
+
+* `Disruption of neural periodicity predicts clinical response after deep brain stimulation for obsessive-compulsive disorder <https://doi.org/10.1038/s41591-024-03125-0>`_
+    | Provenza NR, Reddy S, Allam AK et al. 
+    | *Nature Medicine*
+
+* `Maloperation of Zone-3 Distance Relay Prevention Using Distribution Entropy <https://ieeexplore.ieee.org/abstract/document/10584515>`_
+    | U. Mukundarajan, K. Shanti Swarup
+    | *IEEE Access*
+
+* `ComplexityMeasures.jl: scalable software to unify and accelerate entropy and complexity timeseries analysis <https://arxiv.org/abs/2406.05011>`_ 
+    | George Datseris, Kristian Agasøster Haaga
+    | *arXiv*
+
+* `Using EEG to advance mindfulness science: A survey of emerging methods and approaches <https://osf.io/preprints/psyarxiv/v3ny8>`_
+    | Yanli Lin, Daniel Andrew Atad, Anthony P. Zanesco
+    | *PsyArXiv*
+
+* `Effect of interhemispheric zero-phase entrainment of the intrinsic mu-rhythm on behavioral and neural markers of predictive coding <https://www.biorxiv.org/content/10.1101/2024.05.07.592996v1>`_
+    | Kirstin-Friederike Heise, Geneviève Albouy, Nina Dolfen, Ronald Peeters, Dante Mantini, Stephan P. Swinnen
+    | *BioRxiv*
+
+* `The Temporal Dimension of Consciousness: exploring Intrinsic Neural Timescales (INTs) and their role as a facilitator of consciousness <https://www.research.unipd.it/handle/11577/3513504>`_    
+    | Andrea Buccellato
+    | *University of Padua Archive*
+
+* `Diverging functional connectivity timescales: Capturing distinct aspects of cognitive performance in early psychosis <https://www.medrxiv.org/content/10.1101/2024.05.07.24306932v1>`_
+    | Fabian Hirsch, Ângelo Bumanglag, Yifei Zhang, Afra Wohlschlaeger
+    | *MedrXiv*
+
+* `Extracting Stress-Related EEG Patterns from Pre-Sleep EEG for Forecasting Slow-Wave Sleep Deficiency <https://ieeexplore.ieee.org/document/10510041>`_
+    | Cheng-Hua Su, Li-Wei Ko, Tzyy-Ping Jung, Julie Onton, Shey-Cherng Tzou, Jia-chi Juang, Chung-Yao Hsu,
+    | *IEEE Transactions on Neural Systems and Rehabilitation Engineering*
+
+* `Radiological complexity of nuclear facilities: an information complexity approach to workplace monitoring <https://iopscience.iop.org/article/10.1088/1361-6498/ad42a5/meta>`_
+    | Abinash Chakraborty, Neeraj Parashar, Dhananjay Kumar Pandey, Pankaj Kumar, UV Deokar, JPN Pandey, MS Kulkarni
+    | *Journal of Radiological Protection*
+
+* `From physiological complexity to data interactions—A case study of recordings from exercise monitoring <https://pubs.aip.org/aip/cha/article/34/4/043136/3282829/From-physiological-complexity-to-data-interactions>`_
+    | Małgorzata Andrzejewska, Tomasz Wróblewski, Szymon Cygan, Mateusz Ozimek, Monika Petelczyc
+    | *Chaos*
+
+* `Predictability and Complexity of Fine and Gross Motor Skills in Fibromyalgia Patients: A Pilot Study <https://www.mdpi.com/2075-4663/12/4/90#>`_
+    | Nancy Brígida, David Catela, Cristiana Mercê, Marco Branco
+    | *Sports (MDPI)*
+
+* `Exploring the Entropy-Based Classification of Time Series Using Visibility Graphs from Chaotic Maps <https://www.mdpi.com/2227-7390/12/7/938>`_
+    | J. Alberto Conejero, Andrei Velichko, Òscar Garibo-i-Orts, Yuriy Izotov, Viet-Thanh Pham 
+    | *Mathematics (MDPI)*
+
+* `Monitoring chaos at the cot-side <https://www.nature.com/articles/s41390-024-03151-1>`_
+    | Michael J. Beacom, Martin G. Frasch, Christopher A. Lear, Alistair J. Gunn
+    | *Pediatric Research*
+
+* `Recognition of map activities using eye tracking and EEG data <https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2309188>`_
+    | Tong Qin, Wim Fias, Nico Van de Weghe, Haosheng Huang
+    | *International Journal of Geographical Information Science*
+
+* `Approximate entropy analysis for nonlinear beam dynamics <https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.27.011601>`_
+    | Yongjun Li, Robert Rainer
+    | *Physical Reviews Accelerators and Beams*
+
+* `What can entropy metrics tell us about the characteristics of ocular fixation trajectories? <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291823>`_
+    | Kateryna Melnyk, Lee Friedman, Oleg V. Komogortsev
+    | *PLoS One*
+
+* `Sleep Deprivation in Mice: Looking Beyond the Slow Wave Rebound <https://doi.org/10.1101/2024.10.31.621300>`_
+    | TZ Magyar, O Szalárdy, R Bódizs
+    | *BioRxiv*
+
+* `Deep Learning Model for Prediction of Dementia Severity based on EEG Signals <https://doi.org/10.22153/kej.2024.08.002>`_
+    | NK Al-Qazzaz, SH Bin Mohd Ali, SA Ahmad
+    | *Al-Khwarizmi Engineering Journal*
+
+
+2023
+----
+
+* `Nonlinear Analysis of the Dynamical Characteristics of EEG Signals in Epileptic Brains <https://mhnursing.or.kr/index.php/JKPMHN/article/view/153>`_
+    | Shervin Skaria, Sreelatha KS
+    | *Journal of the Korean Academy of Pyschiatric and Mental Health Nursing*
+
+* `NLDyn - An open source MATLAB toolbox for the univariate and multivariate nonlinear dynamical analysis of physiological data <https://www.doi.org/10.1016/j.cmpb.2023.107941>`_
+    | Mostafa Rostaghi, Sadegh Rostaghi, Anne Humeau-Heurtier, Tarek K. Rajji, Hamed Azami
+    | *Computer Methods and Programs in Biomedicine*
+
+* `Functional near-infrared spectroscopy for human brain age group classification by machine learning <https://doi.org/10.22541/au.170004063.32719671/v1>`_
+    | Martti Ilvesmäki, Hany Ferdinando, Kai Noponen, Tapio Seppänen, Vesa Korhonen, Vesa Kiviniemi, Teemu Myllylä
+    | *Authorea*
+
+* `A Retrospective Study on Classifying Gait Signals Using Entropy Measures <https://doi-org.proxy.bnl.lu/10.1109/TENCON58879.2023.10322319>`_
+    | Wael Suliman, Vinayakumar Ravi, Tuan D. Pham
+    | *IEEE TENCON 2023*
+
+* `Acceleration profiles of adolescent soccer players across a season <https://trace.tennessee.edu/utk_graddiss/8578/>`_
+    | Jake Melaro
+    | *University of Tennessee (Knoxville) Repository*
+
+* `Entropy-Based Machine Learning Model for Fast Diagnosis and Monitoring of Parkinson’s Disease <https://www.mdpi.com/1424-8220/23/20/8609>`_
+    | Maksim Belyaev, Murugappan Murugappan, Andrei Velichko, Dmitry Korzun
+    | *Sensors (MDPI)*
+     
+* `Linear and Nonlinear Analysis of Trunk Sway Time Series in Office Workers With and Without Chronic Spinal Pain <https://run.unl.pt/bitstream/10362/161075/1/Julio_2023.pdf>`_
+    | Afonso Manuel Caetano Julio
+    | *Repositorio Universidade Nova de Lisboa*
+
+* `Ensemble Wavelet Decomposition-Based Detection of Mental States Using Electroencephalography Signals  <https://www.mdpi.com/1424-8220/23/18/7860>`_
+    | Smith K. Khare, Varun Bajaj, Nikhil B. Gaikwad, G.R. Sinha
+    | *Sensors (MDPI)*
+
+* `A Bio-Inspired Chaos Sensor Model Based on the Perceptron Neural Network: Machine Learning Concept and Application for Computational Neuro-Science <https://www.mdpi.com/1424-8220/23/16/7137>`_
+    | Andrei Velichko, Petr Boriskov,Maksim Belyaev, Vadim Putrolaynen
+    | *Sensors (MDPI)*
+
+* `Adazd-Net: Automated adaptive and explainable Alzheimer’s disease detection system using EEG signals <https://doi.org/10.1016/j.knosys.2023.110858>`_
+    | Smith K. Khare, U. Rajendra Acharya
+    | *Knowledge-Based Systems*
+
+* `Topological entropy bounds multiscale entropy <https://doi.org/10.1016/j.topol.2023.108647>`_
+    | Jose S. Cánovas
+    | *Topology and its Applications*
+
+* `Normalization for connectivity of brain regions in schizophrenia classification <https://ieeexplore.ieee.org/abstract/document/10271000/>`_
+    | Shunliang Li, Haifeng Wu
+    | *IEEE 8th International Conference on Signal and Image Processing (ICSIP)*
+
+* `A Dynamical Systems Approach to Characterizing Brain–Body Interactions during Movement: Challenges, Interpretations, and Recommendations <https://www.mdpi.com/1424-8220/23/14/6296>`_
+    | Derek C. Monroe, Nathaniel T. Berry, Peter C. Fino, Christopher K. Rhea
+    | *Sensors (MDPI)*
+
+* `The impact of hardware and design choices on data quality in mouse resting-state functional magnetic resonance imaging (fMRI) <https://escholarship.mcgill.ca/concern/theses/xk81js05z>`_
+    | Mila Urosevic
+    | *McGill University eScholarship*
+
+* `Approximate Entropy Analysis for Nonlinear Beam Dynamics <https://arxiv.org/abs/2306.17297>`_
+    | Yongjun Li    
+    | *arXiv*
+
+* `The Influence of Stress Noise and Music Stimulation on the Autonomous Nervous System <https://ieeexplore.ieee.org/document/10144438>`_
+    | Mariana Jacob Rodrigues, Octavian Postolache, Francisco Cercas
+    | *IEEE Transactions on Instrumentation and Measurement*
+
+* `Neural Network Entropy (NNetEn): Entropy-Based EEG Signal and Chaotic Time Series Classification, Python Package for NNetEn Calculation <https://www.mdpi.com/1999-4893/16/5/255>`_
+    | Andrei Velichko, Maksim Belyaev, Yuriy Izotov, Murugappan Murugappan, Hanif Heidari
+    | *Algorithms (MDPI)*
+
+* `Changes in surface electromyography characteristics and foot-tapping rate of force development as measures of spasticity in patients with multiple sclerosis. <https://shareok.org/handle/11244/337631>`_
+    | Brian Pribble
+    | *University of Oklahoma Library*
+
+* `Analysing Fairness of Privacy-Utility Mobility Models <https://arxiv.org/abs/2304.06469>`_
+    | Yuting Zhan, Hamed Haddadi, Afra Mashhadi
+    | *arXiv*
+
+* `Early fault diagnosis based on reinforcement learning optimized-SVM model with vibration-monitored signals <https://www.tandfonline.com/doi/abs/10.1080/08982112.2023.2193255?journalCode=lqen20>`_
+    | Wenqin Zhao,Yaqiong Lv, Jialun Liu, Carman K. M. Lee, Lei Tu
+    | *Quality Engineering*
+
+* `Fasting and prolonged food restriction differentially affect GH secretion independently of GH receptor signaling in AgRP neurons <https://onlinelibrary.wiley.com/doi/abs/10.1111/jne.13254>`_
+    | Maria E. de Sousa, Daniela O. Gusmao, Willian O. dos Santos, Henrique T. Moriya, Felipe F. de Lima, Edward O. List, John J. Kopchick, Jose Donato Jr.
+    | *Journal of Neuroendocrinology*
+
+* `Non-invasive Waveform Analysis for Emergency Triage via Simulated Hemorrhage: An Experimental Study using Novel Dynamic Lower Body Negative Pressure Model <https://arxiv.org/abs/2303.06064>`_
+    | Naimahmed Nesaragi, Lars Øivind Høiseth, Hemin Ali Qadir, Leiv Arne Rosseland, Per Steinar Halvorsen, Ilangko Balasingham
+    | *arXiv*
+
+* `Improved Stress Classification Using Automatic Feature Selection from Heart Rate and Respiratory Rate Time Signals <https://www.mdpi.com/2076-3417/13/5/2950>`_
+    | Talha Iqbal, Adnan Elahi, William Wijns, Bilal Amin, Atif Shahzad
+    | *Applied Sciences (MDPI)*
+
+* `Complexity and Entropy in Physiological Signals (CEPS): Resonance Breathing Rate Assessed Using Measures of Fractal Dimension, Heart Rate Asymmetry and Permutation Entropy <https://www.mdpi.com/1099-4300/25/2/301>`_
+    | David Mayor, Tony Steffert, George Datseris, Andrea Firth, Deepak Panday, Harikala Kandel, Duncan Banks
+    | *Entropy (MDPI)*
+
+* `Enhancing classification of preterm-term birth using continuous wavelet transform and entropy-based methods of electrohysterogram signals <https://www.frontiersin.org/articles/10.3389/fendo.2022.1035615/full>`_
+    | Héctor Romero-Morales, Jenny Noemí Muñoz-Montes de Oca, Rodrigo Mora-Martínez, Yecid Mina-Paz, José Javier Reyes-Lagos
+    | *Frontiers in Endocrinology*
+
+* `Analysis of the complexity and variability of fine and gross motor tasks in fibromyalgia patients: precision and retrospective cross-sectional studies <https://repositorio.ipsantarem.pt/handle/10400.15/4270>`_
+    | Nancy Anacleto Brígida
+    | *Repositório Científico do Instituto Politécnico de Santarém*
+
+* `Extraction of Information Theory-Based Indices from Fetal-Maternal Heart Rate Simultaneous Signals <https://repositorio-aberto.up.pt/bitstream/10216/152787/2/641576.pdf>`_
+    | Ana Filipa Soeiro Gomes
+    | *Repositório do Faculdade de Engenharia da Universidade do Porto*
+
+
+2022
+----
+
+* `The complexity analysis of cerebral oxygen saturation during pneumoperitoneum and Trendelenburg position: a retrospective cohort study <https://link.springer.com/article/10.1007/s40520-022-02283-w>`_
+    | Xiaoxiao Wang, Chang Liu, Kai Zhang, Yunliang Zhang, Yao Yu, Weidong Mi, Hao Li           
+    | *Aging Clinical and Experimental Research*
+
+* `Assessing the chaos strength of Taylor approximations of the sine chaotic map <https://link.springer.com/article/10.1007/s11071-022-07929-y>`_     
+    | Ioannis Kafetzis, Lazaros Moysis, Christos Volos          
+    | *Nonlinear Dynamics*
+
+* `Utility of sample entropy from intraoperative cerebral NIRS oximetry data in the diagnosis of postoperative cognitive improvement <https://doi.org/10.3389/fphys.2022.965768>`_
+    | Xiaoxiao Wang, Ran Huo, Wanzhong Yuan, Huishu Yuan, Tao Wang, Nan Li     
+    | *Frontiers in Physiology*
+
+* `Entropy Measures of Electroencephalograms towards the Diagnosis of Psychogenic Non-Epileptic Seizures <https://www.mdpi.com/1099-4300/24/10/1348/pdf>`_
+    | Chloe Hinchliffe, Mahinda Yogarajah, Samia Elkommos, Hongying Tang, Daniel Abasolo          
+    | *Entropy (MDPI)*
+
+* `Application of Two-Dimensional Entropy Measures to Detect the Radiographic Signs of Tooth Resorption and Hypercementosis in an Equine Model <https://www.mdpi.com/2227-9059/10/11/2914>`_
+    | Kamil Górski, Marta Borowska, Elżbieta Stefanik, Izabela Polkowska, Bernard Turek, Andrzej Bereznowski, Małgorzata Domino 
+    | *Biomedicines (MDPI)*
+
+* `Application of the Two-Dimensional Entropy Measures in the Infrared Thermography-Based Detection of Rider: Horse Bodyweight Ratio in Horseback Riding <https://www.mdpi.com/1424-8220/22/16/6052>`_
+    | Małgorzata Domino, Marta Borowska, Łukasz Zdrojkowski, Tomasz Jasiński, Urszula Sikorska, Michał Skibniewski, Małgorzata Maśko
+    | *Sensors (MDPI)*
+
+* `What can Entropy Metrics Tell Us About Types of Fixations during Video Viewing? <https://digital.library.txstate.edu/handle/10877/16142>`_
+    | K Melnyk, L Friedman, O Komogortsev 
+    | *Texas State Digital Library*
+
+* `Dynamical Complexity Response in Traveling Ionospheric Disturbances Across Eastern Africa Sector During Geomagnetic Storms Using Neural Network Entropy <https://doi.org/10.1029/2022ja030630>`_
+    | I. A. Oludehinwa, A. Velichko, B. O. Ogunsua, O. I. Olusola, O. O. Odeyemi, A. N. Njah, O. T. Ologun     
+    | *Journal of Geophysical Research Space Physics*
+
+* `A Novel Acoustic Method for Cavitation Identification of Propeller <https://doi.org/10.3390/jmse10091225>`_
+    | Yang Li, Lilin Cui     
+    | *Journal of Marine Science and Engineering*
+    
+* `Pressure Injury Link to Entropy of Abdominal Temperature <https://doi.org/10.3390/e24081127>`_
+    | Nikhil Padhye, Denise Rios, Vaunette Fay, Sandra K Hanneman
+    | *Entropy (MDPI)*
+    
+* `Classification of Electroencephalograms during Mathematical Calculations Using Deep Learning <https://doi.org/10.1109/iri54793.2022.00016>`_
+    | Umang Goenka, Param Patil, Kush Gosalia, Aaryan Jagetia
+    | *IEEE 23rd International Conference on Information Reuse and Integration for Data Science (IRI)* , `arXiv <https://doi.org/10.48550/arxiv.2209.00627>`_
+
+* `The Structure of Chaos: An Empirical Comparison of Fractal Physiology Complexity Indices Using NeuroKit2 <https://doi.org/10.3390/e24081036>`_
+    | Dominique Makowski, An Shu Te, Tam Pham, Zen Juen Lau, S. H. Annabel Chen
+    | *Entropy (MDPI)*
+
+* `Novel techniques for improvement the NNetEn entropy calculation for short and noisy time series <https://arxiv.org/abs/2202.12703>`_    
+    | Hanif Heidari, Andrei Velichko
+    | *arXiv*
+
+* `Privacy-preserving human mobility and activity modelling <https://spiral.imperial.ac.uk/handle/10044/1/101456>`_
+    | Yuting Zhan
+    | *Imperial College London Repository*
+
+
+..............................................................
+
+.. image:: ./_images/EntropyHubLogo3.png
+    :width: 250px
+    :align: center
+    :height: 350px

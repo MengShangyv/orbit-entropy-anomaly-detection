@@ -1,0 +1,36 @@
+
+__pycache__/
+
+WIP/
+
+Dependencies.txt
+
+Function List.txt
+
+Function Tracker.xlsx
+
+Licensing Statement.txt
+
+metrics.entropyhub.svg
+
+TestToken.txt
+
+To Do List.xlsx
+
+~$Function Tracker.xlsx
+
+~$To Do List.xlsx
+
+Other/
+
+Originals/
+
+EntropyHubJl/
+
+EntropyHubPy/
+
+EntropyHubMat/
+
+docs/*
+
+!docs/_build
